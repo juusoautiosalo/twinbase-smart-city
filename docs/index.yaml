@@ -4,5 +4,7 @@ owner:
 repo_url: https://github.com/IoT-NGIN/twinbase-smart-city
 new_twin_url: https://github.com/IoT-NGIN/twinbase-smart-city/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://IoT-NGIN.github.io/twinbase-smart-city/638ddd10-9200-4291-86ef-32c9f58a25f6
+  name: Traffic camera 1
 - url: https://IoT-NGIN.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
