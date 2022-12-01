@@ -21,7 +21,7 @@
         "iotcity:Camera"
     ],
     "dt-id": "https://dtid.org/638ddd10-9200-4291-86ef-32c9f58a25f6",
-    "hosting-iri": "https://IoT-NGIN.github.io/twinbase-smart-city/638ddd10-9200-4291-86ef-32c9f58a25f6",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/638ddd10-9200-4291-86ef-32c9f58a25f6",
     "name": "Traffic camera 1",
     "description": "Traffic camera located in J\u00e4tk\u00e4saari.",
     "geo:location": [
@@ -34,7 +34,7 @@
             "@value": "J\u00e4tk\u00e4saari"
         }
     ],
-    "baseurl": "https://IoT-NGIN.github.io/twinbase-smart-city",
-    "edit": "https://github.com/IoT-NGIN/twinbase-smart-city/edit/main/docs/638ddd10-9200-4291-86ef-32c9f58a25f6/index.yaml",
-    "edit-json": "https://github.com/IoT-NGIN/twinbase-smart-city/edit/main/docs/638ddd10-9200-4291-86ef-32c9f58a25f6/index.json"
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-smart-city",
+    "edit": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/638ddd10-9200-4291-86ef-32c9f58a25f6/index.yaml",
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/638ddd10-9200-4291-86ef-32c9f58a25f6/index.json"
 }
