@@ -51,7 +51,9 @@ for folder in os.listdir(curdir):
         with open(folder + '/index.json', 'r') as docfile:
             dtdoc = json.load(docfile)
         d['twins'].append({})
+        d['twins'][i]['dt-id'] = dtdoc['dt-id']
         d['twins'][i]['url'] = baseurl + '/' + folder
+        d['twins'][i]['hosting-iri'] = dtdoc['hosting-iri']
         d['twins'][i]['name'] = dtdoc['name']
         i += 1
 
