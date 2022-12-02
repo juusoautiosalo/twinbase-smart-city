@@ -3,5 +3,8 @@
     "description": "Really, just delete",
     "local_id": "85d0d623-91c4-4214-b7cf-ed28f50fa7cf",
     "dt-id": "https://dtid.org/85d0d623-91c4-4214-b7cf-ed28f50fa7cf",
-    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/85d0d623-91c4-4214-b7cf-ed28f50fa7cf"
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/85d0d623-91c4-4214-b7cf-ed28f50fa7cf",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-smart-city",
+    "edit": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/85d0d623-91c4-4214-b7cf-ed28f50fa7cf/index.yaml",
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/85d0d623-91c4-4214-b7cf-ed28f50fa7cf/index.json"
 }
