@@ -6,5 +6,6 @@
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/63b9cf68-b1c0-4881-ab9e-05755e827dec",
     "baseurl": "https://juusoautiosalo.github.io/twinbase-smart-city",
     "edit": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/63b9cf68-b1c0-4881-ab9e-05755e827dec/index.yaml",
-    "edit-json": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/63b9cf68-b1c0-4881-ab9e-05755e827dec/index.json"
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/63b9cf68-b1c0-4881-ab9e-05755e827dec/index.json",
+    "patch": "this"
 }
