@@ -4,10 +4,6 @@ owner:
 repo_url: https://github.com/juusoautiosalo/twinbase-smart-city
 new_twin_url: https://github.com/juusoautiosalo/twinbase-smart-city/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
-- dt-id: https://dtid.org/f26fa484-2602-4538-9849-738b4a73fa41
-  url: https://juusoautiosalo.github.io/twinbase-smart-city/f26fa484-2602-4538-9849-738b4a73fa41
-  hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/f26fa484-2602-4538-9849-738b4a73fa41
-  name: string
 - dt-id: https://dtid.org/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   url: https://juusoautiosalo.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
