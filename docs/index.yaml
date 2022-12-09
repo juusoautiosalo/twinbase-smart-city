@@ -16,6 +16,10 @@ twins:
   url: https://juusoautiosalo.github.io/twinbase-smart-city/638ddd10-9200-4291-86ef-32c9f58a25f6
   hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/638ddd10-9200-4291-86ef-32c9f58a25f6
   name: Traffic camera 1
+- dt-id: https://dtid.org/aebad771-380d-4725-b2fc-7f7462d3d88b
+  url: https://juusoautiosalo.github.io/twinbase-smart-city/aebad771-380d-4725-b2fc-7f7462d3d88b
+  hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/aebad771-380d-4725-b2fc-7f7462d3d88b
+  name: string
 - dt-id: https://dtid.org/c08c3f25-d4d2-4657-83ec-d9a67657ce2c
   url: https://juusoautiosalo.github.io/twinbase-smart-city/c08c3f25-d4d2-4657-83ec-d9a67657ce2c
   hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/c08c3f25-d4d2-4657-83ec-d9a67657ce2c
