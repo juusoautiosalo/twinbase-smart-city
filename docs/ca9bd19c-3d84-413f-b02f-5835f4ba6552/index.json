@@ -2,5 +2,8 @@
     "local_id": "ca9bd19c-3d84-413f-b02f-5835f4ba6552",
     "dt-id": "https://dtid.org/ca9bd19c-3d84-413f-b02f-5835f4ba6552",
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/ca9bd19c-3d84-413f-b02f-5835f4ba6552",
-    "name": "Fiery Remarkable Hummingbird Of Weather"
+    "name": "Fiery Remarkable Hummingbird Of Weather",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-smart-city",
+    "edit": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/ca9bd19c-3d84-413f-b02f-5835f4ba6552/index.yaml",
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/ca9bd19c-3d84-413f-b02f-5835f4ba6552/index.json"
 }
