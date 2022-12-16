@@ -2,5 +2,8 @@
     "local_id": "8da78713-9b59-415a-bd44-318160c4b237",
     "dt-id": "https://dtid.org/8da78713-9b59-415a-bd44-318160c4b237",
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/8da78713-9b59-415a-bd44-318160c4b237",
-    "name": "Great Sawfly Of Terrific Awe"
+    "name": "Great Sawfly Of Terrific Awe",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-smart-city",
+    "edit": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/8da78713-9b59-415a-bd44-318160c4b237/index.yaml",
+    "edit-json": "https://github.com/juusoautiosalo/twinbase-smart-city/edit/main/docs/8da78713-9b59-415a-bd44-318160c4b237/index.json"
 }
