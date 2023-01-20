@@ -1,4 +1,22 @@
 {
+    "@context": [
+        {
+            "@vocab": "https://twinschema.org/"
+        },
+        {
+            "saref": "https://saref.etsi.org/core/"
+        },
+        {
+            "s4city": "https://saref.etsi.org/saref4city/"
+        },
+        {
+            "iotcity": "https://iotcity.twinschema.org/"
+        },
+        {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+        }
+    ],
+    "@type": "saref:Sensor",
     "local_id": "00adaba8-b1e0-4d82-9705-2b241856d521",
     "dt-id": "https://dtid.org/00adaba8-b1e0-4d82-9705-2b241856d521",
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/00adaba8-b1e0-4d82-9705-2b241856d521",
