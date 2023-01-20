@@ -1,4 +1,25 @@
 {
+    "@context": [
+        {
+            "@vocab": "https://twinschema.org/"
+        },
+        {
+            "saref": "https://saref.etsi.org/core/"
+        },
+        {
+            "s4city": "https://saref.etsi.org/saref4city/"
+        },
+        {
+            "iotcity": "https://iotcity.twinschema.org/"
+        },
+        {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+        }
+    ],
+    "@type": [
+        "saref:Sensor",
+        "iotcity:Camera"
+    ],
     "dt-id": "https://dtid.org/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32",
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32",
     "name": "Example twin modified",
