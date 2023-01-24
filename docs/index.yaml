@@ -16,6 +16,10 @@ twins:
   url: https://juusoautiosalo.github.io/twinbase-smart-city/72e97cbc-8fe7-40f6-b184-e33d128f92be
   hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/72e97cbc-8fe7-40f6-b184-e33d128f92be
   name: string
+- dt-id: https://dtid.org/49e89f6a-2350-4ae2-8432-223df5d5fd86
+  url: https://juusoautiosalo.github.io/twinbase-smart-city/49e89f6a-2350-4ae2-8432-223df5d5fd86
+  hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/49e89f6a-2350-4ae2-8432-223df5d5fd86
+  name: string2
 - dt-id: https://dtid.org/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   url: https://juusoautiosalo.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   hosting-iri: https://juusoautiosalo.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
